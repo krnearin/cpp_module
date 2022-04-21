@@ -1,0 +1,14 @@
+# ninja log v5
+3	305	1650389208000000000	CMakeFiles/module01.dir/ex01/zombieHorde.cpp.o	a22b6e3860c31684
+1	1198	1650385365000000000	CMakeFiles/module01.dir/ex00/newZombie.cpp.o	fac24f475d964c85
+2	1199	1650385365000000000	CMakeFiles/module01.dir/ex00/randomChump.cpp.o	4965c1dea7f5ad54
+2	1218	1650385365000000000	CMakeFiles/module01.dir/ex00/Zombie.cpp.o	ae5e84e97584584e
+0	620	1650395962000000000	CMakeFiles/module01.dir/ex03/HumanA.cpp.o	b917cc013af5a7ae
+1	307	1650388902000000000	CMakeFiles/module01.dir/ex01/Zombie.cpp.o	420878f1a6b08083
+24	286	1650457545000000000	build.ninja	c2adbca4eb2e4b64
+0	611	1650395962000000000	CMakeFiles/module01.dir/ex03/main.cpp.o	2970b48f07a5767c
+0	470	1650388481000000000	CMakeFiles/module01.dir/ex01/main.cpp.o	1501bd1b8131a2c9
+0	1200	1650385365000000000	CMakeFiles/module01.dir/ex00/main.cpp.o	ca10f5edcfee93f6
+1	606	1650395962000000000	CMakeFiles/module01.dir/ex03/Weapon.cpp.o	1beb1492eae4e90d
+623	757	1650395962000000000	module01	9287ff1516a2fb84
+1	623	1650395962000000000	CMakeFiles/module01.dir/ex03/HumanB.cpp.o	77e76eeca9547dec

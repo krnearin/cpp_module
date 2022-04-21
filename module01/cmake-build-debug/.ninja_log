@@ -1,0 +1,6 @@
+# ninja log v5
+0	753	1650384953000000000	CMakeFiles/module01.dir/ex00/main.cpp.o	794aa22acd1517c1
+0	763	1650384953000000000	CMakeFiles/module01.dir/ex00/newZombie.cpp.o	7f31ea0200e46e63
+0	763	1650384953000000000	CMakeFiles/module01.dir/ex00/randomChump.cpp.o	53c93073ed3418d8
+791	1006	1650384954000000000	module01	8d4584db6407b986
+1	791	1650384953000000000	CMakeFiles/module01.dir/ex00/Zombie.cpp.o	bcd4ca330059820a
